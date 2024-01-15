@@ -26,4 +26,6 @@ Conduct a thorough analysis of the dataset and prepare a concise presentation (5
 XYZ Medical Solutions has been at the forefront of the surgical medicine and equipment industry, demonstrating remarkable growth since its inception. The company's commitment to data-driven decision-making is evident in its recent investment in surgical and hospital data acquisition. The IDB Analytics 3.0 challenge provides an opportunity to extract actionable insights for future growth and success.
 
 ## Team
-[Pixels_Infinity] [Jeevitha M] [Jenina Angelin D]
+#### Pixels_Infinity
+-Jeevitha M
+-Jenina Angelin D
