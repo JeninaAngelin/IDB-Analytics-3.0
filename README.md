@@ -25,7 +25,20 @@ Conduct a thorough analysis of the dataset and prepare a concise presentation (5
 ## About XYZ Medical Solutions
 XYZ Medical Solutions has been at the forefront of the surgical medicine and equipment industry, demonstrating remarkable growth since its inception. The company's commitment to data-driven decision-making is evident in its recent investment in surgical and hospital data acquisition. The IDB Analytics 3.0 challenge provides an opportunity to extract actionable insights for future growth and success.
 
-## Team
-#### Pixels_Infinity
--Jeevitha M
--Jenina Angelin D
+## Solution
+
+## Key Findings
+
+- **Profit/Gross Margin**: The average profit/gross margin is **161.04%**, with a wide range from **-158764.48%** to **948215.13%**.
+- **Revenue Growth Rate**: The average revenue growth rate is **-3.36%**, indicating a negative growth trend.
+- **Surgical Costs and Profits**: High variability in surgical costs, with an average total cost of **$1166.85** and an average total profit of **$370.44**.
+- **Net Profit (EBITDA)**: The average net profit is **-$796.53**, indicating an overall loss.
+- **ROI (Return on Investment)**: The ROI is consistently **-100%**, suggesting a need for further investigation.
+
+## Patient Demographics Insights
+
+- **Age Group Dynamics**: Sales opportunities in the **20-30 age group**, profitability in the **90-100 age group**.
+- **Gender and Ethnicity**: Gender-neutral marketing and cultural sensitivity for ethnic groups.
+- **Regional Dynamics**: Strategic focus on high-demand cities and adaptation to regional preferences.
+- **Procedure Types**: A procedure-based sales approach is recommended.
+
